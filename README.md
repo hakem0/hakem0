@@ -6,5 +6,4 @@ Hi there
 - i am from Iraq
 
 
-
-![parrot](https://github.com/user-attachments/assets/c89bbb42-ed32-4294-8137-aaf6da2f7aea)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668c3c3c2c7edd3e4482f128?variant=dark" alt="roadmap.sh"/></a>
