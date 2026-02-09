@@ -21,7 +21,17 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <p align="left">
+  <a href="https://www.elastic.co/elasticsearch">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  </a>
+    <p align="left">
+  <a href="https://www.vmware.com/products/carbon-black.html">
+    <img src="https://img.shields.io/badge/VMware%20Carbon%20Black-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  </a>
+       <a href="https://www.elastic.co/kibana">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  </a>
 </p>
 
 ### 🧑‍💻 Programming & Scripting
@@ -35,28 +45,27 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran1689&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakem0&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran1689&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakem0&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Reach Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/hkm0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hakam@hakamsoc.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
