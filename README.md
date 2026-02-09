@@ -1,9 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hello,%20I'm%20Kiran%20🛡️&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hello,%20I'm%20KHakem%20🛡️&fontSize=36&fontColor=ffffff" />
 </p>
 
-<h3 align="center">Cybersecurity Student | Aspiring SOC Analyst</h3>
+<h3 align="center"> Computer Engineering Student | SOC Analyst</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - 🎓 Studying **Cybersecurity / Computer Engineering**
 - 🔍 Focused on **SOC Operations, SIEM & Incident Response**
 - 🛡️ Blue Team / Defensive Security
-- 🎯 Goal: **SOC Analyst Intern → Tier 2 Analyst**
+- 🎯 Goal: **SOC Analyst Intern**
 
 ---
 
@@ -45,17 +45,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakem0&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakem0&theme=radical" />
 </p>
 
 ---
