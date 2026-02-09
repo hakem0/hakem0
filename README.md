@@ -18,21 +18,15 @@
 ## 🛠️ Skills & Tools
 
 ### 🔐 Security & SIEM
+### 🔐 Security & SIEM
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <p align="left">
-  <a href="https://www.elastic.co/elasticsearch">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  </a>
-    <p align="left">
-  <a href="https://www.vmware.com/products/carbon-black.html">
-    <img src="https://img.shields.io/badge/VMware%20Carbon%20Black-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  </a>
-       <a href="https://www.elastic.co/kibana">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware%20Carbon%20Black-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 </p>
+
 
 ### 🧑‍💻 Programming & Scripting
 <p align="left">
