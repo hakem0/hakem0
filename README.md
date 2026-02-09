@@ -1,8 +1,62 @@
-# Hakem
-Hi there 
-- i am studying computer engineering in Turkey (2nd year)
-- i am learning Cybersecurity( blue team Soc analyst)
-- i am from Iraq
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hello,%20I'm%20Kiran%20🛡️&fontSize=36&fontColor=ffffff" />
+</p>
 
+<h3 align="center">Cybersecurity Student | Aspiring SOC Analyst</h3>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67c0c099580201fc77538f42?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/></a>
+---
+
+## 🧠 About Me
+- 🎓 Studying **Cybersecurity / Computer Engineering**
+- 🔍 Focused on **SOC Operations, SIEM & Incident Response**
+- 🛡️ Blue Team / Defensive Security
+- 🎯 Goal: **SOC Analyst Intern → Tier 2 Analyst**
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🔐 Security & SIEM
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+### 🧑‍💻 Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 💻 Systems & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiran1689&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran1689&theme=radical" />
+</p>
+
+---
+
+## 📫 Reach Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
