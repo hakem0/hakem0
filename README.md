@@ -5,10 +5,14 @@
 
 <h3 align="center"> Computer Engineering Student | SOC Analyst</h3>
 
+<p align="center">
+  🌐 <a href="https://hakamsoc.com">hakamsoc.com</a>
+</p>
+
 ---
 
 ## 🧠 About Me
-- 🎓 Studying **Cybersecurity / Computer Engineering**
+- 🎓 Studying **Computer Engineering**
 - 🔍 Focused on **SOC Operations, SIEM & Incident Response**
 - 🛡️ Blue Team / Defensive Security
 - 🎯 Goal: **SOC Analyst Intern**
@@ -17,7 +21,7 @@
 
 ## 🛠️ Skills & Tools
 
-### 🔐 Security & SIEM
+
 ### 🔐 Security & SIEM
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
