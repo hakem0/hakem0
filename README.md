@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hello,%20I'm%20Hakem%20🛡️&fontSize=36&fontColor=ffffff" />
-</p>
-
 <h3 align="center"> Computer Engineering Student | SOC Analyst</h3>
 
 <p align="center">
